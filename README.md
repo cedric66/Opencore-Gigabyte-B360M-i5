@@ -2,7 +2,7 @@
 
 ## Specs
 ```
-Motherboard : Gigabyte B360 Aorus Gaming 3
+Motherboard : Gigabyte B360M Aorus Gaming 3
 
 Processor : Intel Core i5-8600 (Coffee Lake) 
 
