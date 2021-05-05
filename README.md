@@ -12,7 +12,7 @@ SSD : Crucial 250GB SATA
 
 Graphics : Intel UHD Graphics 630 2048 MB
 
-WIFI & Bluetooth : Asus PCE-AX3000 AX3000 Dual Band PCI-E WiFi 6 (802.11ax), Bluetooth 5.0
+WIFI & Bluetooth : Asus PCE-AX3000 Dual Band PCI-E WiFi 6 (802.11ax), Bluetooth 5.0
 
 Ethernet : Intel I219V7 PCI Express Gigabit- Ethernet
 ```
